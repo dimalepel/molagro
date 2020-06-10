@@ -1595,12 +1595,12 @@ textarea.form-field {
   margin-bottom: 24px;
   padding-left: 0;
   list-style: none; }
-  @media (max-width: 768px) and (min-width: 640px) {
+  @media (min-width: 1201px) and (max-width: 1560px) {
     .footer-phones {
       margin-top: 9px;
       margin-bottom: 14px; } }
 
-@media (max-width: 768px) and (min-width: 640px) {
+@media (min-width: 1201px) and (max-width: 1560px) {
   .footer-phones__item {
     line-height: 23px; } }
 
@@ -1612,7 +1612,7 @@ textarea.form-field {
   line-height: 16px;
   letter-spacing: 0.04em;
   color: #2AA8C6; }
-  @media (max-width: 768px) and (min-width: 640px) {
+  @media (min-width: 1201px) and (max-width: 1560px) {
     .footer-phones__item--fax::after {
       font-size: 14px; } }
 
@@ -1621,7 +1621,7 @@ textarea.form-field {
   line-height: 27px;
   letter-spacing: 0.04em;
   color: #C5C5C5; }
-  @media (max-width: 768px) and (min-width: 640px) {
+  @media (min-width: 1201px) and (max-width: 1560px) {
     .footer-phones__item a {
       font-size: 14px;
       line-height: 23px; } }
